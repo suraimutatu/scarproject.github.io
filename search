@@ -1,0 +1,13 @@
+<script>
+  (function() {
+    var cx = ‘011748369692229736496:greuwt62jgo’;
+    var gcse = document.createElement('script');
+    gcse.type = ‘text/javascript’;
+    gcse.async = true;
+    gcse.src = (document.location.protocol == ‘https:’ ? ‘https:’ : ‘http:’) +
+        ‘//cse.google.com/cse.js?cx=’ + cx;
+    var s = document.getElementsByTagName('script');
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
