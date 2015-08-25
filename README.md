@@ -1,12 +1,12 @@
 
 # scarproject(Scratch Japan 非公式テーム)のホームページ。
 
-yu0712さんが始めたScratch紹介プロジェクト
-https://scratch.mit.edu/discuss/topic/137368/
-:公式トピックです(要Scratchアカウント)
+yu0712さんが始めたScratch紹介プロジェクト  
 
+公式トピック:
+https://scratch.mit.edu/discuss/topic/137368/ (要Scratchアカウント)  
+公式ページ:
 http://scarproject.github.io
-:公式ページ
 
 #メンバー+メンバーのページ
 メンバーリストは入った順で2015/7/28 20:00現在
